@@ -3,4 +3,4 @@ c = 7
 b = 1
 a = a+ c + b
 print (a + c)
-print (b) 
+print (b+ c)
