@@ -39,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="width" value="160" />
     <option name="height" value="39" />
   </component>
@@ -87,7 +87,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercise3">
+  <component name="RunManager" selected="Python.lesson8">
     <configuration name="exercise3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="github_project" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,8 +132,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.exercise3" />
         <item itemvalue="Python.lesson8" />
+        <item itemvalue="Python.exercise3" />
       </list>
     </recent_temporary>
   </component>
